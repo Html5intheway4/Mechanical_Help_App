@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1041551297122",
+    "project_id": "mechanical-help",
+    "storage_bucket": "mechanical-help.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041551297122:android:a315c12a90edf8a918df3b",
+        "android_client_info": {
+          "package_name": "com.fury.mechanical_help"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjFTz08EtVyqK5pTATR9nMHYdaLbUZ9LY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
